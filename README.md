@@ -29,8 +29,6 @@ Using `dalex`, we opened the "black box" to prove that the model's mathematical 
 
 ## 📊 Visual Insights
 
-*(Add your generated plots to an `images/` folder in your repo and link them here to make your README visually impressive!)*
-
 ### Global Variable Importance (Pure Biology)
 ![Variable Importance](images/variableimportance.png)
 > *After removing administrative leakage, all 5 classifiers universally agreed on the top clinical drivers: Age, Pneumonia, Test Classification, Diabetes, and Hypertension.*
